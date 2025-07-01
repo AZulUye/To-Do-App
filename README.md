@@ -49,7 +49,7 @@ Or run using IDE of your choice.
 
 ## 📂 Project Structure
 
-To-DoApp/
+```To-DoApp/
 │
 ├── MainPage.xaml              # Main UI layout (XAML)
 ├── MainPage.xaml.cs          # Logic & event handling (C#)
@@ -57,6 +57,7 @@ To-DoApp/
 ├── BoolToTextDecoration...   # Converter for strikethrough text
 ├── App.xaml                  # Resource dictionary + converter reference
 └── Resources/Styles/         # Colors & styles (optional)
+```
 
 ---
 
