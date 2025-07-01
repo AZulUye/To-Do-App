@@ -49,7 +49,8 @@ Or run using IDE of your choice.
 
 ## 📂 Project Structure
 
-```To-DoApp/
+```
+To-DoApp/
 │
 ├── MainPage.xaml              # Main UI layout (XAML)
 ├── MainPage.xaml.cs          # Logic & event handling (C#)
