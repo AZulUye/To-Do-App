@@ -1,0 +1,33 @@
+## MAUI/.NET
+bin/
+obj/
+*.user
+*.userprefs
+*.suo
+*.pdb
+*.db
+*.log
+*.tmp
+*.bak
+
+## macOS
+.DS_Store
+
+## Rider IDE
+.idea/
+*.sln.iml
+
+## VSCode (jika pakai juga)
+.vscode/
+
+## Xcode Simulator/Build
+xcuserdata/
+*.xcuserstate
+DerivedData/
+*.ipa
+*.app
+
+## Logs
+*.log
+logs/
+
